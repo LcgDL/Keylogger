@@ -1,5 +1,5 @@
 # Keylogger
-A Keylogger to send reports to a Server with UDP Socket connection
+A Keylogger to send reports to a Server with UDP Socket connection.
 
 commands: pip install pynput, python3
 
